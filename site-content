@@ -1,0 +1,217 @@
+<table>
+	<tbody>
+		<tr>
+			<td>
+
+				<p dir="ltr">Section Details</p>
+			</td>
+			<td>
+
+				<p dir="ltr">Content</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+				<p dir="ltr">Header</p>
+
+				<p dir="ltr">Sticky nav with anchor tags for rest of page</p>
+			</td>
+			<td>
+
+				<p dir="ltr">Logo:&nbsp;</p>
+
+				<p dir="ltr">&ldquo;Hack for LA&rdquo; logo on top left side [need a new one]</p>
+
+				<p dir="ltr">Nav items:&nbsp;</p>
+
+				<p dir="ltr">Hack Night, Current Projects, News, About Us</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+				<p dir="ltr">Splash</p>
+
+				<p dir="ltr">Big photo and central call-to-action for page.&nbsp;</p>
+
+				<p dir="ltr">On sign-up submission, you get a thank you message on the same page, and an auto-response from CRM.&nbsp;</p>
+			</td>
+			<td>
+
+				<p dir="ltr">Visual:&nbsp;</p>
+
+				<p dir="ltr">Photo of people interacting</p>
+
+				<p dir="ltr">Headline:&nbsp;</p>
+
+				<p dir="ltr">You can change LA for the better</p>
+
+				<p dir="ltr">Copy:&nbsp;</p>
+
+				<p dir="ltr">Can you design, write, or code? Are you an activist with an idea? You can help the greatest city in the world live up to its potential through Hack for LA. Everyone is welcome!</p>
+
+				<p dir="ltr">Form:&nbsp;</p>
+
+				<p dir="ltr">Sign up to learn more: + Email Field + Sign-Up Button&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+				<p dir="ltr">Hack Nights</p>
+
+				<p dir="ltr">Description of Hack Nights and way to RSVP</p>
+
+				<p dir="ltr">People who RSVP are thanked on the same page, and then put in a CRM group and sent a reminder to come to hack night the morning of.&nbsp;</p>
+
+				<p dir="ltr">Question: Do we want to send a reminder to everyone every week?&nbsp;</p>
+			</td>
+			<td>
+
+				<p dir="ltr">Headline:&nbsp;</p>
+
+				<p dir="ltr">Hack Nights&nbsp;</p>
+
+				<p dir="ltr">Copy:&nbsp;</p>
+
+				<p dir="ltr">At our weekly Hack Nights, we organize groups of volunteers to build technology addressing the LA region&#39;s biggest civic issues. Join an existing project team or pitch your own civic issue.</p>
+
+				<p dir="ltr">Elements:&nbsp;</p>
+
+				<p dir="ltr">LaKretz Center address and map link (do people really get lost inside?</p>
+
+				<p dir="ltr">Form:&nbsp;</p>
+
+				<p dir="ltr">Email Field + RSVP button [necessary?]</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+				<p dir="ltr">Projects</p>
+
+				<p dir="ltr">Single column of stacked projects with details</p>
+
+				<p dir="ltr">Projects have icons to indicate status, such as planning, design, development, beta, done.&nbsp;</p>
+
+				<p dir="ltr">Question:&nbsp;</p>
+
+				<p dir="ltr">What are all the roles we can identify needing? Randomized order, or ordered by status?</p>
+			</td>
+			<td>
+
+				<p dir="ltr">Headline:&nbsp;</p>
+
+				<p dir="ltr">Current Projects</p>
+
+				<p dir="ltr">Project 1: Food Oasis</p>
+
+				<p dir="ltr">Title: Food Oasis</p>
+
+				<p dir="ltr">Description: Everyone deserves access to healthy food. Help us make it easier for Angelenos to find the best places to buy or grow healthy food in their city.&nbsp;</p>
+
+				<p dir="ltr">Status: Beta</p>
+
+				<p dir="ltr">Needs: Java Developers, Designers, Writers</p>
+
+				<p dir="ltr">Visual: Tomatoes&nbsp;</p>
+
+				<p dir="ltr">Project 2: Work for LA</p>
+
+				<p dir="ltr">Description: Applying for work should be simple&mdash;but the application process for the City of LA is confusing. We&rsquo;re going to make it easier to follow. &nbsp;</p>
+
+				<p dir="ltr">Status: Planning</p>
+
+				<p dir="ltr">Needs: UX, Writers, Designers</p>
+
+				<p dir="ltr">Visual: City Hall</p>
+
+				<p dir="ltr">Project 3: Adopt-A-Civic Artwork</p>
+
+				<p dir="ltr">Description: There are thousands of works of public art scattered around the city. There should be one place to see where they are and how they&rsquo;re doing. We&rsquo;re building it.&nbsp;</p>
+
+				<p dir="ltr">Status: Planning</p>
+
+				<p dir="ltr">Needs: UX, Designers, Python</p>
+
+				<p dir="ltr">Visual: Artwork TKTK&nbsp;</p>
+
+				<p dir="ltr">Project 4: Parking App</p>
+
+				<p dir="ltr">Description: We&rsquo;re going to build an iOS and Android app that will tell you where and when you can park in the city&mdash;all based on your location. Come drive with us.&nbsp;</p>
+
+				<p dir="ltr">Status: Planning</p>
+
+				<p dir="ltr">Needs: Designers, Python</p>
+
+				<p dir="ltr">Visual: Parking sign</p>
+
+				<p dir="ltr">Button: See All Projects [not necessary now, but in future]</p>
+
+				<p dir="ltr">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+				<p dir="ltr">News</p>
+
+				<p dir="ltr">Featured news, videos, and links to other sites, three boxes with visuals and copy over them, linked&nbsp;</p>
+			</td>
+			<td>
+
+				<p dir="ltr">Headline: TKTK</p>
+				<br>
+				<br>
+				<br>
+				<br>
+
+				<p dir="ltr">Button: See All News [not necessary now, but in future]</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+				<p dir="ltr">About Us</p>
+
+				<p dir="ltr">Short paragraph about our beliefs, who funds us, sponsors, contact, etc. Links to becoming a sponsor contact page.&nbsp;</p>
+
+				<p dir="ltr">We should have a form that separates out press inquiries, normal contact questions, and sponsor inquiries.&nbsp;</p>
+			</td>
+			<td>
+
+				<p dir="ltr">Headline:&nbsp;</p>
+
+				<p dir="ltr">Want to know more about Hack for LA?&nbsp;</p>
+
+				<p dir="ltr">Copy:&nbsp;</p>
+
+				<p dir="ltr">Hack for LA is the official Los Angeles chapter of Code for America, a national nonprofit that believes government can work for the people, by the people, in the 21st century. We bring together coders, designers, entrepreneurs, students, government agencies, activists, and other civically engaged individuals to solve the LA region&rsquo;s biggest civic challenges.&nbsp;</p>
+
+				<p dir="ltr">Call to Action:</p>
+
+				<p dir="ltr">Are you press and want to get in touch? Are you interested in becoming a sponsor? Contact us here: LINK TO FORM</p>
+
+				<p dir="ltr">Sponsor Garden:</p>
+
+				<p dir="ltr">Code for America + TKTK logos?</p>
+				<br>
+				<br>
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td>
+
+				<p dir="ltr">Footer</p>
+			</td>
+			<td>
+				<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p></p>
+
